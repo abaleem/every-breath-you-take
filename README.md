@@ -1,10 +1,8 @@
 # Every Breath You Take
  An interactive visualization that analyses the air quality of different states and counties across United States.  
  
- 
- **The visualisation can be viewed at:** http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/
- 
-**[Click here to view the visualization](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/)**
+  
+## **[Click here to view the visualization](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/)**
  
  
  
