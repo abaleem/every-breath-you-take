@@ -1,12 +1,15 @@
 # Every Breath You Take
  An interactive visualization that analyses the air quality of different states and counties across United States.
  
+ **The visualisation can be viewed at:** http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/
+ 
  `I’m supposed to be in school, but instead I’m out here trying to make sure that my kids don’t grow up in a wasteland.` — Arielle Geismar, 17, An excerpt from The New York Times.
  
 The above statement was stated by a teen student from Manhattan concerning the Climate Change. When many such youngsters took to the roads on March the sixteenth, concerned about their progeny at such a young age, we know that something is really not going the way it should. Today, Climate Change is an impending doom that we are facing collectively. It is not something that we can afford to be negligent or ignorant about.  
 
-But, is it just a myth? Are we really doomed? Where's the proof? If true, how do we go about it? What do we do about it? WHAT DO WE KNOW ABOUT IT?  
+But, is it just a myth? Are we really doomed? Where's the proof? What do we do about it? WHAT DO WE KNOW ABOUT IT?  
   
 The changes in climate and air quality are very gradual and hard to notice in the environment. In this project we tried studying the Air Quality data, by drawing meaningful patterns from it, by infering a sequence of events correlating a consequence which could serve as a forewarning to us, and help save the environment.  
   
-We collected data regarding various attributes which correspond to the Air Quality Index such as Temperature, Levels of various Pollutants in the air such as Carbon-Monoxise, Nitrous Oxide, Sulphur-Dioxide, Ozone, etc. We have analysed the trends of the above stated components over the span of the last forty years to establish a significant change in our ecosystem. We have toyed with the data from all angles and explored best visualization practices to effectively communicate this message accross.  
+We collected data regarding various attributes which correspond to the Air Quality such as Temperature, Levels of various Pollutants in the air such as Carbon Monoxide, Nitrous Oxide, Sulphur Dioxide, Ozone, etc. We have analysed the trends of the above stated components over the span of the last forty years to establish a significant change in our ecosystem. We have toyed with the data from all angles and explored best visualization practices to effectively communicate this message accross.  
+
