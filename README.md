@@ -119,3 +119,8 @@ This tab contains information about the coursework, who developed the project, w
 ## Snapshots 
 
 ![](Snapshots/1.jpg)
+![](Snapshots/2.jpg)
+![](Snapshots/3.jpg)
+![](Snapshots/4.jpg)
+![](Snapshots/5.jpg)
+![](Snapshots/6.jpg)
