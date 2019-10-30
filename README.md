@@ -83,7 +83,7 @@ Place the preprocess.R files one folder level above the Raw Files directory and 
 
 ## App
 
-[Click here to view the final app.](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/). This app was optimized to run on screen in Electronic Visualization Lab at UIC [Click here to find more about EVL](https://www.youtube.com/watch?v=4VdBnH9_47E) but also runs reasonably on desktop screen. **Please set your browser zoom level to ~50% for optimal experience.
+[Click here to view the final app.](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/) This app was optimized to run on screen in [Electronic Visualization Lab at UIC](https://www.youtube.com/watch?v=4VdBnH9_47E) but also runs reasonably on desktop screen. **Please set your browser zoom level to ~50% for optimal experience.**
 
 You can also compile and run it locally by run app.R in RStudio. Make sure you have followed all the instructions above to install all libraries and download and preprocess all the relevent data before running the app.
 
