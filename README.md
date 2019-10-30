@@ -4,7 +4,7 @@
  
  **The visualisation can be viewed at:** http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/
  
-**[Click here to view the visualization]**(http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/)
+**[Click here to view the visualization](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/)**
  
  
  
