@@ -22,6 +22,6 @@ We collected data regarding various attributes which correspond to the Air Quali
 
 Softwares required:- **R** and **RStudio**  
 
-Download and install R: https://cran.cnr.berkeley.edu/. (R (20178-12-20 Eggshell Igloo)) 
+Download and install R: https://cran.cnr.berkeley.edu/. (R (20178-12-20 Eggshell Igloo))  
 Download ans install RStudio: https://www.rstudio.com/products/rstudio/download/. (R-Studio (1.1.463))
 
