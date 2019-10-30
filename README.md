@@ -40,6 +40,7 @@ install.packages(shiny)
 ## Data and Preprocessing
 
 The data was collected from the US EPA website.  
+
 You can download all the Annual, Daily, Hourly data files from https://aqs.epa.gov/aqsweb/airdata/download_files.html  
 The data files for Hong Kong can be downloaded from https://openaq.org/#/countries  
 The data files for all Heatmaps can be downloaded from https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
