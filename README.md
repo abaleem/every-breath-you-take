@@ -18,3 +18,10 @@ The changes in climate and air quality are very gradual and hard to notice in th
 We collected data regarding various attributes which correspond to the Air Quality such as Temperature, Levels of various Pollutants in the air such as Carbon Monoxide, Nitrous Oxide, Sulphur Dioxide, Ozone, etc. We have analysed the trends of the above stated components over the span of the last forty years to establish a significant change in our ecosystem. We have toyed with the data from all angles and explored best visualization practices to effectively communicate this message accross.  
 
 
+## Setup
+
+Softwares required:- **R** and **RStudio**  
+
+Download and install R: https://cran.cnr.berkeley.edu/. (R (20178-12-20 Eggshell Igloo)) 
+Download ans install RStudio: https://www.rstudio.com/products/rstudio/download/. (R-Studio (1.1.463))
+
