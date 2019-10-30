@@ -16,7 +16,10 @@ But, is it just a myth? Are we really doomed? Where's the proof? What do we do a
   
 The changes in climate and air quality are very gradual and hard to notice in the environment. In this project we tried studying the Air Quality data, by drawing meaningful patterns from it, by infering a sequence of events correlating a consequence which could serve as a forewarning to us, and help save the environment.  
   
-We collected data regarding various attributes which correspond to the Air Quality such as Temperature, Levels of various Pollutants in the air such as Carbon Monoxide, Nitrous Oxide, Sulphur Dioxide, Ozone, etc. We have analysed the trends of the above stated components over the span of the last forty years to establish a significant change in our ecosystem. We have toyed with the data from all angles and explored best visualization practices to effectively communicate this message accross.  
+We collected data regarding various attributes which correspond to the Air Quality such as Temperature, Levels of various Pollutants in the air such as Carbon Monoxide, Nitrous Oxide, Sulphur Dioxide, Ozone, etc. We have analysed the trends of the above stated components over the span of the last thirty years to establish a significant change in our ecosystem. We have toyed with the data from all angles and explored best visualization practices to effectively communicate this message accross.  
+
+The application analyses the Air Quality data for different states and counties across the US from 1990-2018. The Air Quality data has been categorized into Annual, Daily, Hourly data files. The application analyses the same data in multiple ways (Pie Chart, Bar Chart, Line Chart, HeatMap, Table) to derive insights from the changing trends over the years. Apart from analysing the Air Quality for the US, this application also analyses the Air Quality data for Hong Kong as well. We have experimented with different layouts considering user experience as well.
+
 
 
 ## Setup
@@ -71,4 +74,39 @@ Raw Files/Hong Kong --> Place the Individual pollutant file here
 Place the preprocess.R files one folder level above the Raw Files directory and the preprocessed files will be generated. **This may take up to 10 to 15 minutes**  
 
 **TBD**: Setup a google drive where you can download the preprocessed data directly from.
+
+## App
+
+[Click here to view the final app.](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/). This app was optimized to run on screen in Electronic Visualization Lab at UIC [Click here to find more about EVL](https://www.youtube.com/watch?v=4VdBnH9_47E) but also runs reasonably on desktop screen. **Please set your browser zoom level to ~50% for optimal experience.
+
+You can also compile and run it locally by run app.R in RStudio. Make sure you have followed all the instructions above to install all libraries and download and preprocess all the relevent data before running the app.
+
+## Navigating
+
+Once you click on the link, the application will consist of five tabs on the sidebar for navigation purposes. The detailed description of the tab functionalities are as follows.  
+
+**Annual Data:**
+Under Annual Tab, the application enables the user to choose a year from 1990 to 2018, then a State and County (either from the default list or from the list of all state/counties)
+1. The user will be able to see the AQI Category days and Pollutant Data in Pie Chart, Bar Chart, and Table format.
+2. The user will then be able to see the changing trends in pollutants and AQI values over the years from 1990 to 2018. The user has the option here to choose what pollutant/Type of AQI values to plot in the line graph.
+3. Then, we have these data displayed in the format of a table in terms of percentage, the user can search for a particular year.
+4. The application then displays the heat map for the pollutants, this heat map displays the relative badness of the selected pollutant across the US. The user can choose the pollutant from the options to see that pollutant's effect across the US. The user has the slider to choose to rank the number of relatively badly affected counties for that pollutant. For example, if the user sets the slider to 100, then the map shows the top 100 counties that are most affected by that selected pollutant. Apart from this, the user has the option to choose the heat map color and value breaks. The user can also hover over the map to see the details of each county.
+5. The same kind of heat map is given for the AQI values. The user can choose between Max AQI values, 90th Percentile, and Median AQI value for the selected year. The user also has the option to choose the color and breaks here as well.
+6. The user will see a county map to show the location of that particular county in the United States.  
+
+**Daily Data:**
+Now under Daily Data tab,
+1. The user will be able to see a stacked bar chart which shows the contribution of each AQI days in percentage for each month of the selected year.
+2. Then, the user can see a line chart which shows the AQI value of each day in the selected year with a major pollutant of that day.
+3. Also, the user will be able to see the table of the contribution of each AQI days for each month of the selected year.
+
+**Hourly Data:**
+This functionality is available only for the year 2018. The user can choose any date from the date picker given in the tab. Once the user chooses the data, the application loads the list of data available for that particular date chosen (Pollutants, Wind, and Temp). From the checkboxes, the user can select any number of plots that to be plotted in the line graph to compare the pollutants along with Wind and Temperature data. The user can also choose the units in which he can view the data.  
+
+**Hong Kong:**
+The data is available for the last 90 days for the country. The user can choose any of the dates from the data picker given. Once the user chooses a site(location), the available data for that date loads and the user can select from the checkboxes the pollutants which are to be plotted. The daily and monthly data is also plotted in the line graph for Hong Kong. Also, the user will be able to see the location of the Site chosen in a Leaflet map.  
+
+**About:**
+This tab contains information about the coursework, who developed the project, what libraries are being used to visualize the data and the data source from which the data is downloaded. This section also contains some information about the description of the application and the purpose of doing this project.
+
 
