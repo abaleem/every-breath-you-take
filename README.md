@@ -21,6 +21,12 @@ We collected data regarding various attributes which correspond to the Air Quali
 The application analyses the Air Quality data for different states and counties across the US from 1990-2018. The Air Quality data has been categorized into Annual, Daily, Hourly data files. The application analyses the same data in multiple ways (Pie Chart, Bar Chart, Line Chart, HeatMap, Table) to derive insights from the changing trends over the years. Apart from analysing the Air Quality for the US, this application also analyses the Air Quality data for Hong Kong as well. We have experimented with different layouts considering user experience as well.
 
 
+## Team
+Sai Krishnan Thiruvarpu Neelakantan  
+Praveen Chandrasekaran  
+Varsha Jayaraman  
+Abdullah Aleem  
+
 
 ## Setup
 
@@ -109,4 +115,6 @@ The data is available for the last 90 days for the country. The user can choose 
 **About:**
 This tab contains information about the coursework, who developed the project, what libraries are being used to visualize the data and the data source from which the data is downloaded. This section also contains some information about the description of the application and the purpose of doing this project.
 
+
+## Snapshots 
 
