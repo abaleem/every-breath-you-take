@@ -25,3 +25,9 @@ Softwares required:- **R** and **RStudio**
 Download and install R: https://cran.cnr.berkeley.edu/. (R (20178-12-20 Eggshell Igloo))  
 Download ans install RStudio: https://www.rstudio.com/products/rstudio/download/. (R-Studio (1.1.463))
 
+Libraries used:- **shiny, shinydashboard, ggplot2, lubridate, DT, grid, leaflet, scales, shinycssloaders, shinyWidget, tidyverse, tmap tmaptools, sf, splitstackshape, cdlTools, plotly**
+
+To check currently installed libraries, type the following in R terminal
+    installed.packages()[,1:2]
+Libraries can be installed using the following command. Replace shiny with name of library you want to install.
+    install.packages(shiny)
