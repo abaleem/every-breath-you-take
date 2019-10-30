@@ -4,7 +4,7 @@
   
 ## **[Click here to view the visualization](http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/)**
 
-**[Video Guide](https://www.youtube.com/watch?v=AlOXzHcn7Z4&feature=youtu.be)""
+**[Video Guide](https://www.youtube.com/watch?v=AlOXzHcn7Z4&feature=youtu.be)**
  
  
  ## Purpose
