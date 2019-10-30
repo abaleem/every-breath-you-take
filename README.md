@@ -33,5 +33,7 @@ installed.packages()[,1:2]
 ```
     
 Libraries can be installed using the following command. Replace shiny with name of library you want to install.
-`install.packages(shiny)`
+```
+install.packages(shiny)
+```
     
