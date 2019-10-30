@@ -1,2 +1,10 @@
-# every-breath-you-take
+# Every Breath You Take
  An interactive visualization that analyses the air quality of different states and counties across United States.
+ 
+ `I’m supposed to be in school, but instead I’m out here trying to make sure that my kids don’t grow up in a wasteland.` — Arielle Geismar, 17, An excerpt from The New York Times.
+ 
+The above statement was stated by a teen student from Manhattan concerning the Climate Change. When many such youngsters took to the roads on March the sixteenth, concerned about their progeny at such a young age, we know that something is really not going the way it should. Today, Climate Change is an impending doom that we are facing collectively. It is not something that we can afford to be negligent or ignorant about.
+But, is it just a myth? Are we really doomed? Where's the proof? If true, how do we go about it? What do we do about it? WHAT DO WE KNOW ABOUT IT?
+In this epoch, there's very little that we cannot do to help or change any situation for the better. This is that time, wherein we can conquer the world by just clicking a few keys on our electronic devices. But how do we use this super power to solve our crisis? By studying data, by drawing meaningful patterns from it, by infering a sequence of events correlating a consequence which could serve as a forewarning to us, thus saving millions in terms of nature and other resources.
+
+This is precisely what we aim to do with our Project, Every Breath We Take. We have collated the Air Quality Index data of The United States of America to kickoff what could serve as a forceful reminder of where we are headed with respect to Our Existence. We have collected data regarding various attributes which correspond to the Air Quality Index such as Wind Speed, Temperature, Levels of various Pollutants in the air such as Carbon-Monoxise, Nitrous Oxide, Sulphur-Dioxide, Ozone, etc. We have analysed the trends of the above stated components over the span of the last forty years to establish a significant change in our ecosystem. We have toyed with the data from all angles and explored various means of communicating this with our Brethren.
