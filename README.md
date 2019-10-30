@@ -27,7 +27,7 @@ Download ans install RStudio: https://www.rstudio.com/products/rstudio/download/
 
 Libraries used:- **shiny, shinydashboard, ggplot2, lubridate, DT, grid, leaflet, scales, shinycssloaders, shinyWidget, tidyverse, tmap tmaptools, sf, splitstackshape, cdlTools, plotly**
 
-To check currently installed libraries, type the following in R terminal
+To check currently installed libraries, type the following in R terminal  
     installed.packages()[,1:2]
     
 Libraries can be installed using the following command. Replace shiny with name of library you want to install.
