@@ -29,5 +29,7 @@ Libraries used:- **shiny, shinydashboard, ggplot2, lubridate, DT, grid, leaflet,
 
 To check currently installed libraries, type the following in R terminal
     installed.packages()[,1:2]
+    
 Libraries can be installed using the following command. Replace shiny with name of library you want to install.
     install.packages(shiny)
+    
