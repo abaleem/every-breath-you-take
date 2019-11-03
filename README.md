@@ -7,7 +7,7 @@
 **[Video Guide](https://www.youtube.com/watch?v=AlOXzHcn7Z4&feature=youtu.be)**
  
  
- ## Purpose
+ ## Overview
  `I’m supposed to be in school, but instead I’m out here trying to make sure that my kids don’t grow up in a wasteland.` — Arielle Geismar, 17, An excerpt from The New York Times.
  
 The above statement was stated by a teen student from Manhattan concerning the Climate Change. When many such youngsters took to the roads on March the sixteenth, concerned about their progeny at such a young age, we know that something is really not going the way it should. Today, Climate Change is an impending doom that we are facing collectively. It is not something that we can afford to be negligent or ignorant about.  
